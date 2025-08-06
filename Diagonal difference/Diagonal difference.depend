@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1754474810 source:e:\mindcloud\training\c++\tasks\diagonal difference\main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+
